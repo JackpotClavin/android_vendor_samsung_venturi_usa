@@ -37,6 +37,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/venturi_usa/proprietary/libtvouthdmi.so:system/lib/libtvouthdmi.so \
     vendor/samsung/venturi_usa/proprietary/lights.aries.so:system/lib/hw/lights.aries.so \
     vendor/samsung/venturi_usa/proprietary/libsecril-client.so:system/lib/libsecril-client.so \
+    vendor/samsung/venturi_usa/proprietary/libsec-ril-apalone.so:system/lib/libsec-ril-apalone.so \
     vendor/samsung/venturi_usa/proprietary/gps.aries.so:system/vendor/lib/hw/gps.aries.so \
     vendor/samsung/venturi_usa/proprietary/gps.xml:system/vendor/etc/gps.xml \
     vendor/samsung/venturi_usa/proprietary/sensors.aries.so:system/lib/hw/sensors.aries.so \
