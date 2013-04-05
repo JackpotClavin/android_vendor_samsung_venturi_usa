@@ -30,19 +30,12 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/venturi_usa/proprietary/libsrv_init.so:system/vendor/lib/libsrv_init.so \
     vendor/samsung/venturi_usa/proprietary/libsrv_um.so:system/vendor/lib/libsrv_um.so \
     vendor/samsung/venturi_usa/proprietary/libusc.so:system/vendor/lib/libusc.so \
-    vendor/samsung/venturi_usa/proprietary/lib_tvoutengine.so:system/lib/lib_tvoutengine.so \
-    vendor/samsung/venturi_usa/proprietary/libtvout.so:system/lib/libtvout.so \
-    vendor/samsung/venturi_usa/proprietary/libtvout_jni.so:system/lib/libtvout_jni.so \
-    vendor/samsung/venturi_usa/proprietary/libtvoutfimc.so:system/lib/libtvoutfimc.so \
-    vendor/samsung/venturi_usa/proprietary/libtvouthdmi.so:system/lib/libtvouthdmi.so \
     vendor/samsung/venturi_usa/proprietary/lights.aries.so:system/lib/hw/lights.aries.so \
     vendor/samsung/venturi_usa/proprietary/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/venturi_usa/proprietary/libsec-ril-apalone.so:system/lib/libsec-ril-apalone.so \
     vendor/samsung/venturi_usa/proprietary/gps.aries.so:system/vendor/lib/hw/gps.aries.so \
     vendor/samsung/venturi_usa/proprietary/gps.xml:system/vendor/etc/gps.xml \
     vendor/samsung/venturi_usa/proprietary/sensors.aries.so:system/lib/hw/sensors.aries.so \
-    vendor/samsung/venturi_usa/proprietary/libtvoutservice.so:system/lib/libtvoutservice.so \
-    vendor/samsung/venturi_usa/proprietary/tvoutserver:system/bin/tvoutserver \
     vendor/samsung/venturi_usa/proprietary/EMPTY_DIRECTORY:system/vendor/app/EMPTY_DIRECTORY \
     vendor/samsung/venturi_usa/proprietary/vold:system/bin/vold \
     vendor/samsung/venturi_usa/proprietary/gps.conf:system/etc/gps.conf \
