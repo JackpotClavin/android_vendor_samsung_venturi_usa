@@ -37,7 +37,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/venturi_usa/proprietary/gps.xml:system/vendor/etc/gps.xml \
     vendor/samsung/venturi_usa/proprietary/sensors.aries.so:system/lib/hw/sensors.aries.so \
     vendor/samsung/venturi_usa/proprietary/EMPTY_DIRECTORY:system/vendor/app/EMPTY_DIRECTORY \
-    vendor/samsung/venturi_usa/proprietary/vold:system/bin/vold \
     vendor/samsung/venturi_usa/proprietary/gps.conf:system/etc/gps.conf \
     vendor/samsung/venturi_usa/proprietary/gpsd:system/vendor/bin/gpsd \
     vendor/samsung/venturi_usa/proprietary/libsensor_yamaha_test.so:system/vendor/lib/libsensor_yamaha_test.so \
