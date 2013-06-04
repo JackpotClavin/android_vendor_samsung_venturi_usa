@@ -21,7 +21,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/venturi_usa/proprietary/libEGL_POWERVR_SGX540_120.so:system/vendor/lib/egl/libEGL_POWERVR_SGX540_120.so \
     vendor/samsung/venturi_usa/proprietary/libGLESv1_CM_POWERVR_SGX540_120.so:system/vendor/lib/egl/libGLESv1_CM_POWERVR_SGX540_120.so \
     vendor/samsung/venturi_usa/proprietary/libGLESv2_POWERVR_SGX540_120.so:system/vendor/lib/egl/libGLESv2_POWERVR_SGX540_120.so \
-    vendor/samsung/venturi_usa/proprietary/gralloc.aries.so:system/vendor/lib/hw/gralloc.aries.so \
+    vendor/samsung/venturi_usa/proprietary/gralloc.s5pc110.so:system/vendor/lib/hw/gralloc.s5pc110.so \
     vendor/samsung/venturi_usa/proprietary/libglslcompiler.so:system/vendor/lib/libglslcompiler.so \
     vendor/samsung/venturi_usa/proprietary/libIMGegl.so:system/vendor/lib/libIMGegl.so \
     vendor/samsung/venturi_usa/proprietary/libpvr2d.so:system/vendor/lib/libpvr2d.so \
@@ -30,12 +30,12 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/venturi_usa/proprietary/libsrv_init.so:system/vendor/lib/libsrv_init.so \
     vendor/samsung/venturi_usa/proprietary/libsrv_um.so:system/vendor/lib/libsrv_um.so \
     vendor/samsung/venturi_usa/proprietary/libusc.so:system/vendor/lib/libusc.so \
-    vendor/samsung/venturi_usa/proprietary/lights.aries.so:system/lib/hw/lights.aries.so \
+    vendor/samsung/venturi_usa/proprietary/lights.s5pc110.so:system/lib/hw/lights.s5pc110.so \
     vendor/samsung/venturi_usa/proprietary/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/venturi_usa/proprietary/libsec-ril-apalone.so:system/lib/libsec-ril-apalone.so \
-    vendor/samsung/venturi_usa/proprietary/gps.aries.so:system/vendor/lib/hw/gps.aries.so \
+    vendor/samsung/venturi_usa/proprietary/gps.s5pc110.so:system/vendor/lib/hw/gps.s5pc110.so \
     vendor/samsung/venturi_usa/proprietary/gps.xml:system/vendor/etc/gps.xml \
-    vendor/samsung/venturi_usa/proprietary/sensors.aries.so:system/lib/hw/sensors.aries.so \
+    vendor/samsung/venturi_usa/proprietary/sensors.s5pc110.so:system/lib/hw/sensors.s5pc110.so \
     vendor/samsung/venturi_usa/proprietary/EMPTY_DIRECTORY:system/vendor/app/EMPTY_DIRECTORY \
     vendor/samsung/venturi_usa/proprietary/gps.conf:system/etc/gps.conf \
     vendor/samsung/venturi_usa/proprietary/gpsd:system/vendor/bin/gpsd \
